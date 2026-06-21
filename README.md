@@ -142,6 +142,9 @@ The application allows users to upload financial data and receive bankruptcy ris
 
 streamlit run app.py
 ---
+# Live Demo
+- https://bankruptcy-prediction-using-machine-learing-jvmig4qthvypbshqox.streamlit.app
+---
 # Technologies Used
 
 - Python

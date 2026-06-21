@@ -6,8 +6,8 @@ import joblib
 # LOAD MODEL AND SCALER
 # =====================================
 
-model = joblib.load("bankruptcy_xgboost.pkl")
-scaler = joblib.load("scaler.pkl")
+model = joblib.load("models/bankruptcy_xgboost.pkl")
+scaler = joblib.load("models/scaler.pkl")
 
 # =====================================
 # PAGE CONFIG
